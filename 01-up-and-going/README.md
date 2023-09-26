@@ -1,12 +1,6 @@
-# Você Não Sabe JS: Iniciando
+# Livro 1 - Iniciando
 
 <img src="cover.jpg" width="300">
-
------
-
-**[Compre a versão digital/impressa pela O'Reilly](http://shop.oreilly.com/product/0636920039303.do)**
-
------
 
 [Índice](toc.md)
 

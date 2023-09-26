@@ -1,5 +1,5 @@
 
-# Você Não Sabe JS: Iniciando
+# Livro 1 - Iniciando
 # Apêndice A: Agradecimentos
 
 Tenho tantas pessoas à agradecer por fazer essa série de livros se tornar realidade.

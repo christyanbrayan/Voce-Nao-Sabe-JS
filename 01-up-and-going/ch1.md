@@ -1,4 +1,4 @@
-# Você Não Sabe JS: Iniciando
+# Livro 1 - Iniciando
 # Capítulo 1: Iniciando
 
 Bem vindo à série *You Don't Know JS* (*YDKJS*).

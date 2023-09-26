@@ -1,4 +1,4 @@
-# You Don't Know JS: Iniciando
+# Livro 1 - Iniciando
 # Introdução
 
 Qual foi a última vez que você aprendeu algo novo?
