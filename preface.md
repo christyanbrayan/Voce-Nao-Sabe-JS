@@ -1,4 +1,3 @@
-# You Don't Know JS
 # Prefácio
 
 Tenho certeza que você notou, mas o "JS" como título da série não é uma abreviação de palavras usadas para falar mal de JavaScript, embora xingar sobre as peculiaridades da linguagem é algo com o qual todos nós podemos provavelmente nos identificar.
@@ -38,3 +37,12 @@ O JavaScript que você conhece *agora* é um provável conjunto de *partes* ensi
 JavaScript é incrível! É fácil de aprendê-la parcialmente, e muito difícil aprendê-la por completo (ou até mesmo *suficientemente*). Quando desenvolvedores(as) se sentem confusos(as), geralmente culpam a linguagem ao invés de sua falta de conhecimento. Esses livros têm como objetivo corrigir isso, inspirando uma apreciação forte da linguagem que agora você pode (e *deve*) conhecer *profundamente*.
 
 Nota: Muitos dos exemplos desse livro supõem que você dispõe de ambientes JavaScript modernos (e de longo alcance futuro), como o ES6. Alguns códigos podem não funcionar como descrito se você estiver utilizando ambientes mais antigos (pre-ES6).
+
+---
+
+* [Livro 1 - Iniciando](01-up-and-going/)
+* [Livro 2 - Escopos & Closures](02-scope-and-closures/)
+* [Livro 3 - this & Prototipagem de Objetos](03-this-and-object-prototypes/)
+* [Livro 4 - Tipos & Gramática](04-types-and-grammar/)
+* [Livro 5 - Async & Performance](05-async-and-performance/)
+* [Livro 6 - ES6 & Além](06-es6-and-beyond/)
