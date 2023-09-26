@@ -1,4 +1,4 @@
-# You Don't Know JS: Iniciando
+# Você Não Sabe JS: Iniciando
 
 <img src="cover.jpg" width="300">
 

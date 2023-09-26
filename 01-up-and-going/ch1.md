@@ -1,4 +1,4 @@
-# You Don't Know JS: Iniciando
+# Você Não Sabe JS: Iniciando
 # Capítulo 1: Iniciando
 
 Bem vindo à série *You Don't Know JS* (*YDKJS*).
@@ -805,3 +805,9 @@ No próximo capítulo iremos revisar muitos dos conceitos deste capítulo, mas d
 
 *Observação:*
 **NT:** Nota do tradutor.
+
+---
+
+[⬅️ Introdução](README.md)
+
+[➡️ Capítulo 2: Por dentro do JavaScript](ch2.md)

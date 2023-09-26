@@ -1,4 +1,4 @@
-# You Don't Know JS: Iniciando
+# Você Não Sabe JS: Iniciando
 # Capítulo 3: Dentro do YDKJS
 
 Sobre o que é essa série? Simplificando, trata-se de levar a sério a tarefa de aprender *todas as partes do JavaScript*, e não apenas um subconjunto da linguagem que alguns chamam de "as partes boas", e também não apenas o mínimo que você precisa fazer para terminar o seu trabalho.
@@ -102,3 +102,9 @@ A série *YDKJS* é dedicada à questão de que todos os desenvolvedores JS pode
 Nós pegamos cada área importante da linguagem, focamos e dedicamos um livro curto, mas denso para explorar plenamente todas as partes que você talvez pensou que sabia, mas não provavelmente em sua totalidade.
 
 "You Don't Know JS" ("Você Não Sabe JS") não é uma crítica ou um insulto. Isso é uma percepção que todos nós, inclusive eu, devemos ter. Aprender JavaScript não é um objetivo final, mas um processo. Nós não sabemos JavaScript ainda, mas vamos!
+
+---
+
+[⬅️ Capítulo 2 - Por dentro do JavaScript](ch2.md)
+
+[➡️ Apêndice A: Agradecimentos!](apA.md)

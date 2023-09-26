@@ -18,3 +18,9 @@ Quanto mais exposto ao JavaScript você está, mais claro ele se torna. Palavras
 Jenn Lukas<br>
 [jennlukas.com](http://jennlukas.com/), [@jennlukas](https://twitter.com/jennlukas)<br>
 Consultora Front-end
+
+---
+
+[⬅️ Livro 1 - Você Não Sabe JS: Iniciando](README.md)
+
+[➡️ Capítulo 1 - Capítulo 1: Iniciando](ch1.md)

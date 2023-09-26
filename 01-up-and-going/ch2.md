@@ -1,4 +1,4 @@
-# You Don't Know JS: Iniciando
+# Você Não Sabe JS: Iniciando
 # Capítulo 2: Por dentro do JavaScript
 
 No capítulo anterior, fiz uma introdução básica sobre os blocos construtores da programação, como variáveis, loops, condicionais e funções. Claro, todo o código demonstrado foi em JavaScript. Mas neste capítulo, iremos focar especificamente no que deve ser aprendido em JavaScript para começarmos como um desenvolvedor JS.
@@ -962,3 +962,9 @@ O primeiro passo para aprender o sabor JavaScript de programação é ter um ent
 Claro, cada um desses tópicos merecem uma cobertura muito maior do que você viu aqui, mas é por isso que eles têm capítulos e livros dedicados para eles ao longo desta série de livros. Depois de se sentir confortável com os conceitos e exemplos de código deste capítulo, o resto da série te aguarda para que você se aprofunde na linguagem.
 
 O capítulo final deste livro irá fazer um breve sumário de todos os outros títulos da série e outros conceitos que serão cobertos além do que já exploramos até aqui.
+
+---
+
+[⬅️ Capítulo 1 - Iniciando](ch1.md)
+
+[➡️ Capítulo 3 - Capítulo 3: Dentro do YDKJS](ch3.md)
