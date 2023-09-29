@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Capítulo 2: Escopo Léxico
 
 No Capítulo 1, definimos "escopo" como o conjunto de regras que dita a forma com que o *Motor* poderá buscar e eventualmente localizar variáveis através de seus identificadores, tanto no *Escopo* atual quanto nos *Escopos aninhados* que este possa estar inserido.
@@ -221,3 +221,9 @@ Escopo léxico significa que o escopo é definido pelo local onde funções são
 Dois mecanismos do JavaScript podem "trapacear" o escopo léxico: `eval(..)` e `with`. O primeiro pode modificar o escopo existente (em tempo de execução) ao interpretar uma string de "código" que contenha uma ou mais declarações. O segundo cria um escopo léxico totalmente novo (também em tempo de execução) ao tratar a referência para um objeto *como* um "escopo" e as propriedades deste objeto como identificadores deste escopo.
 
 O problema destes mecanismos é que ambos acabam com a capacidade do *Motor* de executar, em tempo de compilação, otimizações na consulta de escopo, porque o *Motor* precisa supor de modo pessimista que todas as otimizações serão inválidas. O código *irá* ser executado mais lentamente como resultado da utilização de qualquer uma destas funcionalidades. **Não utilize-as.**
+
+---
+
+[⬅️ Capítulo 1: O que é Escopo?](ch1.md)
+
+[➡️ Capítulo 3: Escopo de função vs. Bloco de escopo](ch3.md)

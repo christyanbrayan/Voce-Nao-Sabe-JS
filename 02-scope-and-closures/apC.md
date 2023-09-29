@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Apêndice C: Lexical-this
 
 Embora este título não aborde o mecanismo `this` em seus detalhes, existe um tópico que se refere ao escopo léxico `this` de forma significativa, que vamos examinar rapidamente.
@@ -113,3 +113,9 @@ Independentemente se você prefere o novo comportamento `lexical-this` das arrow
 Elas têm uma diferença de comportamento intencional (ou se preferir: importância diferente) que devemos entender e aprender.
 
 Agora que entendemos plenamente escopo lexico (e closure!), entender `lexical-this` deve ser uma brisa!
+
+---
+
+[⬅️ Apêndice B: Polyfilling Escopo de Bloco](apB.md)
+
+[➡️ Apêndice D: Agradecimentos](apD.md)

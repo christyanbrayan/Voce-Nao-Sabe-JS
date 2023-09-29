@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Capítulo 1: O que é Escopo?
 
 Um dos paradigmas mais fundamentais de quase todas as linguagens de programação é a capacidade de armazenar valores em variáveis e, posteriormente, obter ou modificar esses valores. Na verdade, a habilidade de armazenar e pegar valores de variáveis é o que fornece *estado* a um programa.
@@ -307,3 +307,9 @@ var c = foo( 2 );
 
 
 [^note-strictmode]: MDN: [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/Strict_mode)
+
+---
+
+[⬅️ Prefácio](../preface.md)
+
+[➡️ Capítulo 2: Escopo Léxico](ch2.md)

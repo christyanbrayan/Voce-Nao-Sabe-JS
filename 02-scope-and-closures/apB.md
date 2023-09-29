@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Apêndice B: Polyfilling Escopo de Bloco
 
 No Capítulo 3, nós exploramos o Escopo de Bloco. Nós vimos que as cláusulas `with` e `catch` são, ambas, pequenos exemplos de escopo de bloco que existem em JavaScript desde de, pelo menos, a introdução ao ES3.
@@ -121,3 +121,9 @@ Então questionamos o seguinte: você quer escopo de bloco ou não? Se sim, as f
 [^note-traceur]: [Google Traceur](http://traceur-compiler.googlecode.com/git/demo/repl.html)
 
 [^note-let_er]: [let-er](https://github.com/getify/let-er)
+
+---
+
+[⬅️ Apêndice A: Escopo Dinâmico](apA.md)
+
+[➡️ Apêndice C: Lexical-this](apC.md)

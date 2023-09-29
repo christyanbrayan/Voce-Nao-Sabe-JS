@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Apêndice D: Agradecimentos
 
 Primeiro, preciso agradecer à minha esposa Christen Simpson e meus dois filhos Ethan e Emily, por aturar a ausência do papai enquanto eu estava no computador. Mesmo quando não estava escrevendo os livros, minha obsessão com o JavaScript grudava meus olhos na tela muito mais do que deveria. O tempo que eu comprometi junto à minha família é o motivo destes livros serem tão profunda e competamente explicados à você, leitor. Devo tudo à minha família.
@@ -16,3 +16,9 @@ Desde que a série "You Don't Know JS" foi criada no Kickstarter, eu gosto de ag
 Essa série está sendo produzida de maneira open source, incluindo a edição e produção. Nós temos uma dívida de gradidão ao GitHub por fazer esse tipo de acontecimento possível para a comunidade!
 
 Obrigado novamente a todos as incontáveis pessoas que não pude nomear mas a quem eu no entanto devo meus agradecimentos. Que essa série de livros possa ser de "propriedade" de todos nós e servir para disseminar o conhecimento da linguagem JavaScript, para benefício de todos os que contribuem para a comunidade de hoje e de amanhã.
+
+---
+
+[⬅️ Apêndice C: Lexical-this](apC.md)
+
+[➡️ Livro 3: this & Prototipagem de Objetos](../03-this-and-object-prototypes/)

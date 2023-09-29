@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Capítulo 3: Escopo de função vs. Bloco de escopo
 
 Conforme exploramos no Capítulo 2, o escopo consiste em uma série de "bolhas" que atuam como recipientes nos quais identificadores (variáveis, funções) são declarados. Estas bolhas aninham-se umas às outras de forma muito organizada, e este aninhamento é definido durante a escrita do código.
@@ -609,3 +609,9 @@ Em ES6, é introduzida a palavra-chave `let` (um primo para a palavra-chave `var
 Embora alguns parecem acreditar, o escopo do bloco não deveria ser tomado como uma substituição pura e simples de escopo da função `var`. Ambas as funcionalidades co-existem, e os desenvolvedores podem e deveriam usar ambas as técnicas de escopo da função e escopo do bloco, onde respectivamente apropriados para produzir melhor, mais código legível/sustentável.
 
 [^note-leastprivilege]: [Principle of Least Privilege](http://en.wikipedia.org/wiki/Principle_of_least_privilege)
+
+---
+
+[⬅️ Capítulo 2: Escopos & Closures](ch2.md)
+
+[➡️ Capítulo 4: Hoisting](ch4.md)

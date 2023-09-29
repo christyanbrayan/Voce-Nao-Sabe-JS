@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Capítulo 4: Hoisting
 
 A essa altura, você deve estar relativamente confortável com a ideia de escopo, e como variáveis são anexadas a diferentes níveis de escopo  dependendo de onde e como elas são declaradas. Tanto o escopo de função quanto o escopo de bloco se comportam seguindo as mesmas regras e considerando o fato que: qualquer variável declarada em um escopo é anexada ele.
@@ -220,3 +220,9 @@ Isso nos leva à concluir que todas as declarações em um escopo, independente 
 As próprias declarações são "elevadas", mas atribuições, mesmo atribuições de expressões de função, *não* são "elevadas".
 
 Cuidado com declarações duplicadas, especialmente misturadas entre declarações de variável normal e de função -- há um certo perigo, caso isso aconteça!
+
+---
+
+[⬅️ Capítulo 3: Escopo de função vs. Bloco de escopo](ch3.md)
+
+[➡️ Capítulo 5: Closures de Escopo](ch5.md)

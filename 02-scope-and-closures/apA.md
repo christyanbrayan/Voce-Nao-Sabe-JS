@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Apêndice A: Escopo Dinâmico
 
 No Capítulo 2, falamos sobre "Escopo Dinâmico" como um contraste ao modelo de "Escopo Léxico", que é como os escopos funcionam em JavaScript (e, de fato, na maioria das linguagens).
@@ -56,3 +56,9 @@ Para ser claro, o JavaScript **não tem, de fato, um escopo dinâmico**. Ele tem
 O contraste chave **escopo léxico rodam no tempo de escrita (write-time), e o escopo dinâmico (e `this`!) ocorrem no tempo de execução (runtime)**. Escopo léxico se importa com a questão *de onde a função foi declarada*, mas o escopo dinâmico se importa com a questão *de onde ela foi chamada*.
 
 Finalmente, `this` se importa com *como a função foi chamada*, o que mostra o quão próxima é a relação do mecanismo `this` com a ideia do escopo dinâmico. Para saber mais sobre `this`, leia o título *this & Prototipagem de Objetos*.
+
+---
+
+[⬅️ Capítulo 5: Closures de Escopo](ch5.md)
+
+[➡️ Apêndice B: Polyfilling Escopo de Bloco](apB.md)

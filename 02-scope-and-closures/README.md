@@ -1,16 +1,10 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 
 <img src="cover.jpg" width="300">
 
------
-
-**[Adquira uma cópia digital/impresa pela Editora O'Reilly](http://shop.oreilly.com/product/0636920026327.do)**
-
------
-
 [Índice](toc.md)
 
-* [Introdução](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (por [Shane Hudson](https://github.com/shanehudson))
+* [Introdução](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (por [Shane Hudson](https://github.com/shanehudson) em Inglês)
 * [Prefácio](../preface.md)
 * [Capítulo 1: O que é um Escopo?](ch1.md)
 * [Capítulo 2: Escopo Léxico](ch2.md)

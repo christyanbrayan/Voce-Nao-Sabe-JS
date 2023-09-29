@@ -1,4 +1,4 @@
-# You Don't Know JS: Escopos & Closures
+# Livro 2 - Escopos & Closures
 # Capítulo 5: Closures de Escopo
 
 Com esperança, até este ponto nós já alcançamos uma compreensão sólida e muito saudável de como escopo funciona.
@@ -594,3 +594,9 @@ Closure parece para os não-iluminados como um mundo místico à parte dentro do
 Módulos requerem duas características chave: 1) uma função de encapsulamento externa ser invocada, para criar o escopo fechado 2) o valor de retorno da função de encapsulamento deve incluir referência para ao menos uma função interna que então tenha closure sobre o escopo privado interno do encapsulamento.
 
 Agora nós podemos ver closures em todo nosso código existente, e temos a habilidade para reconhece-los e aproveitá-los para nosso próprio benefício!
+
+---
+
+[⬅️ Capítulo 4: Hoisting](ch4.md)
+
+[➡️ Apêndice A: Escopo Dinâmico](apA.md)
