@@ -1,4 +1,5 @@
-# You Don't Know JS: ES6 & Além
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
 # Introdução
 
 Kyle Simpson é um pragmático minucioso.

@@ -1,58 +1,57 @@
-# You Don't Know JS: ES6 & Além
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
 
 ## Índice
 
-* Introdução
-* Prefácio
-* Capítulo 1: ES? Agora & o Futuro
-	* Versionamento
-	* Transpiling
-* Capítulo 2: Sintaxe
-	* Declarações de Escopos de Bloco
-	* Spread / Rest
-	* Valores Padrão de Parâmetros
-	* Desestruturando
-	* Extensões de Objetos Literais
-	* Template de Literais
-	* Arrow Functions
-	* Loops `for..of`
-	* Extensões de Expressões Regulares
-	* Extensões de Literais e Number
-	* Unicode
-	* Símbolos
-* Capítulo 3: Organização
-	* Iterações
-	* Generators
-	* Modulos
-	* Classes
-* Capítulo 4: Controle de Fluxo Assíncrono
-	* Promessas
-	* Generators + Promessas
-* Capítulo 5: Coleções
-	* TypedArrays
-	* Maps
-	* WeakMaps
-	* Sets
-	* WeakSets
-* Capítulo 6: Adições do API
-	* `Array`
-	* `Object`
-	* `Math`
-	* `Number`
-	* `String`
-* Capítulo 7: Meta Programação
-	* Nomes de Funções
-	* Meta Propriedades
-	* Simbolos Bem Conhecidos
-	* Proxies
-	* `Reflect` API
-	* Feature Testing
-	* Tail Call Optimization (TCO)
-* Capítulo 8: Além do ES6
-	* `async function`s
-	* `Object.observe(..)`
-	* Operador de Exponenciação
-	* Propriedades de Objetos e  `...`
-	* `Array#includes(..)`
-	* SIMD
-* Apêndice A: Agradecimentos
+* [Introdução](foreword.md)
+* [Capítulo 1: ES? Agora & o Futuro](ch1.md)
+	* [Versionamento](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch1.html#versionamento)
+	* [Transpilando](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch1.html#transpilando)
+* [Capítulo 2: Sintaxe](ch2.md)
+	* [Declarações de Escopos de Bloco](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#declara%C3%A7%C3%B5es-em-blocos-de-escopos)
+	* [Spread / Rest](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#spreadrest)
+	* [Valores Padrão de Parâmetros](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#valores-padr%C3%A3o-de-par%C3%A2metro)
+	* [Desestruturando](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#desestrutura%C3%A7%C3%A3o-destructuring)
+	* [Extensões de Objetos Literais](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#object-literal-extensions)
+	* [Template de Literais](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#template-literals)
+	* [Arrow Functions](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#arrow-functions)
+	* [Loops `for..of`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#forof-loops)
+	* [Expressões Regulares](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#regular-expressions)
+	* [Extensões de Literais e Number](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#number-literal-extensions)
+	* [Unicode](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#unicode)
+	* [Símbolos](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch2.html#symbols)
+* [Capítulo 3: Organização](ch3.md)
+	* [Iteradores](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch3.html#iteradores)
+	* [Generators](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch3.html#generators)
+	* [Módulos](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch3.html#modules)
+	* [Classes](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch3.html#classes)
+* [Capítulo 4: Controle de Fluxo Assíncrono](ch4.md)
+	* [Promises](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch4.html#promises)
+	* [Generators + Promises](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch4.html#generators--promises)
+* [Capítulo 5: Coleções](ch5.md)
+	* [TypedArrays](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch5.html#typedarrays-arrays-tipados)
+	* [Maps](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch5.html#maps-mapas)
+	* [WeakMaps](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch5.html#weakmaps-mapas-fracos)
+	* [Sets](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch5.html#sets-conjuntos)
+	* [WeakSets](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch5.html#weaksets-conjuntos-fracos)
+* [Capítulo 6: Adições do API](ch6.md)
+	* [`Array`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch6.html#array)
+	* [`Object`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch6.html#object)
+	* [`Math`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch6.html#math)
+	* [`Number`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch6.html#number)
+	* [`String`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch6.html#string)
+* [Capítulo 7: Meta Programação](ch7.md)
+	* [Nomes de Funções](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch7.html#nome-de-fun%C3%A7%C3%B5es)
+	* [Meta Propriedades](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch7.html#meta-propriedades)
+	* [Símbolos Bem Conhecidos](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch7.html#s%C3%ADmbolos-bem-conhecidos)
+	* [Proxies](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch7.html#proxies)
+	* [`Reflect` API](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch7.html#api-reflect)
+	* [Feature Testing](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch7.html#teste-de-funcionalidade)
+	* [Tail Call Optimization (TCO)](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch7.html#otimiza%C3%A7%C3%A3o-da-chamada-de-cauda-tail-call-optimization---tco)
+* [Capítulo 8: Além do ES6](ch8.md)
+	* [`async function`s](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch8.html#fun%C3%A7%C3%B5es-async)
+	* [`Object.observe(..)`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch8.html#objectobserve)
+	* [Operador de Exponenciação](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch8.html#operador-de-exponencia%C3%A7%C3%A3o)
+	* [Propriedades de Objetos e  `...`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch8.html#propriedades-de-objetos-e-)
+	* [`Array#includes(..)`](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch8.html#arrayincludes)
+	* [SIMD](https://christyanbrayan.github.io/VoceNaoSabeJS/06-es6-and-beyond/ch8.html#simd)
+* [Apêndice A: Agradecimentos](apA.md)

@@ -1,5 +1,6 @@
-# You Don't Know JS: ES6 e além
-# Chapter 6: Adições no API
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
+# Capítulo 6: Adições no API
 
 De conversão de valores a cálculos matemáticos, ES6 agrega muitas propriedades estáticas e métodos a vários nativos e objetos globais para ajudar com tarefas comuns. Além disso, instâncias de alguns dos nativos têm novas capacidades através de vários métodos de prototipagem.
 
@@ -799,3 +800,9 @@ ES6 adiciona muitos API de helpers extras nos vários objetos nativos:
 * `String` adiciona funções estáticas como `String.fromCodePoint(..)` e `String.raw(..)`, e também funções de prototipagem como `repeat(..)` e `includes(..)`.
 
 A maioria dessas adições podem ser polyfilled (veja ES6 Shim) e foram inspiradas por utilitários em bibliotecas/frameworks comuns de JS.
+
+---
+
+[⬅️ Capítulo 5: Coleções](ch5.md)
+
+[➡️ Capítulo 7: Metaprogramação](ch7.md)

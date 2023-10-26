@@ -1,4 +1,5 @@
-# You Don't Know JS: ES6 & Além
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
 # Capítulo 3: Organização
 
 Uma coisa é escrever código JS, outra coisa é organizá-lo propriamente. Utilizar padrões comuns para organização e reuso é muito bom para melhorar a legibilidade e entendimento do seu código. Lembre-se: código é tanto comunicação com outros desenvolvedores quanto fornecer instruções de computador.
@@ -2046,3 +2047,9 @@ ES6 introduces several new features that aid in code organization:
 * Classes provide cleaner syntax around prototype-based coding. The addition of `super` also solves tricky issues with relative references in the `[[Prototype]]` chain.
 
 These new tools should be your first stop when trying to improve the architecture of your JS projects by embracing ES6.
+
+---
+
+[⬅️ Capítulo 2: Sintaxe](ch2.md)
+
+[➡️ Capítulo 4: Controle de fluxo assincrono](ch4.md)

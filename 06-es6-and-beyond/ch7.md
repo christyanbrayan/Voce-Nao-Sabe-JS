@@ -1,4 +1,5 @@
-# You Don't Know JS: ES6 & Além
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
 # Capítulo 7: Metaprogramação
 
 Metaprogramação é programação onde a operação visa o comportamento do próprio programa. Em outras palavras, é programar a programação do seu programa. Sim, um bocado, não é?
@@ -1292,3 +1293,9 @@ Desde inferências com nomes de funções anônimas para meta propriedades que t
 Teste de funcionalidade, mesmo para comportamentos semânticos sutis, como Otimização da chamada de cauda, alterna o foco da metaprogramação do seu programa para as próprias capacidades do motor Javascript. Conhecendo mais do que o ambiente pode fazer, seus programas podem se auto ajustar à melhor combinação enquando eles executam.
 
 Você deveria metaprogramar? Meu conselho é: primeiro foque em como as macânicas fundamentais da linguagem realmente funcionam. Mas uma vez que você conhece completamente o que o próprio JS pode fazer, é hora de começar a alavancar essa poderosa capacidade de metaprogramação para aumentar a linguagem.
+
+---
+
+[⬅️ Capítulo 6: Adições no API](ch6.md)
+
+[➡️ Capítulo 8: ES6 & Além](ch8.md)

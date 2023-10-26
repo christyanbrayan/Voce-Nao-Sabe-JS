@@ -1,5 +1,6 @@
-# You Don't Know JS: ES6 e além
-# Chapter 4: Controle de fluxo assincrono
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
+# Capítulo 4: Controle de fluxo assincrono
 
 Se você já escreveu uma quantidade significativa de JavaScript, não é segredo que programação assincrona é uma habilidade necessária. Até o momento, o mecanismo principal para gerenciar assicronicidade tem sido o uso de funções *callback*.
 
@@ -377,3 +378,9 @@ Ainda bem, ES6 tras *Promises* para tratar uma das maiores deficiências das `ca
 Mas é a combinação de *Promises* com *generators* que melhor demostra os benefícios de rearanjar nosso código de controle de fluxo assíncrono para desestimular e abistrair aquela horrível sopa de `callbacks` (aka "hell").
 
 Até então, podemos gerenciar essas intererações com a ajuda de varias bibliotecas assincronas, mas JavaScript eventualmente suportará esses padrões de interação em sua própria sintaxe.
+
+---
+
+[⬅️ Capítulo 3: Organização](ch3.md)
+
+[➡️ Capítulo 5: Coleções](ch5.md)

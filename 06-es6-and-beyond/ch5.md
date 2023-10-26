@@ -1,4 +1,5 @@
-# You Don't Know JS: ES6 & Beyond
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
 # Capítulo 5: Coleções
 
 Coleções estruturadas e acesso a informações são componentes críticos de praticamente qualquer programa JS. Desde o começo da linguagem até hoje, os arrays e objetos tem sido nosso principal mecanismo para se criar estruturas de dados. É claro, muitas estruturas de alto-nível foram construídas no topo destas, como bibliotecas que rodam em modo usuário.
@@ -543,3 +544,9 @@ TypedArrays fornecem "view"s de buffers de dados binários que se alinham com v�
 Mapas são pares de chave-valores onde a chave pode ser um objeto ao invés de apenas uma string/primitiva. Conjuntos são listas de valores únicos (de qualquer tipo).
 
 WeakMaps são mapas onde a chave (objeto) é guardada fracamente, de tal forma que o coletor de lixo é livre para coletar a entrada caso seja a última referência para um objeto. WeakSets são conjuntos onde o valor é fracamente mantido, novamente, para que o coletor de lixo possa remover a entrada caso ela seja a última referência ao objeto.
+
+---
+
+[⬅️ Capítulo 4: Controle de fluxo assincrono](ch4.md)
+
+[➡️ Capítulo 6: Adições no API](ch6.md)

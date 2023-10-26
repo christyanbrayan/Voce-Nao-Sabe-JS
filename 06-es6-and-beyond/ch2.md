@@ -1,4 +1,5 @@
-# You Don't Know JS: ES6 & Além
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
 # Capítulo 2: Sintaxe
 
 Se você vem escrevendo JS por algum tempo, é provável que a sintaxe pareça bem familiar à você. Com certeza existem algumas confusões, mas em geral a sintaxe é bem clara e de entendimento razoável, com formato bem similar à outras linguagens.
@@ -2818,3 +2819,9 @@ Most of these are designed to ease the pain points of common programming idioms,
 While features like `=>` arrow functions appear to also be all about shorter and nicer-looking syntax, they actually have very specific behaviors that you should intentionally use only in appropriate situations.
 
 Expanded Unicode support, new tricks for regular expressions, and even a new primitive `symbol` type round out the syntactic evolution of ES6.
+
+---
+
+[⬅️ Capítulo 1: ES? Presente e Futuro](ch1.md)
+
+[➡️ Capítulo 3: Organização](ch3.md)

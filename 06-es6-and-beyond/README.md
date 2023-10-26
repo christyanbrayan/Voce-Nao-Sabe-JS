@@ -1,12 +1,6 @@
-# You Don't Know JS: ES6 & Além
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
 
 <img src="cover.jpg" width="300">
-
------
-
-**[Adquira uma cópia digital/impressa pela Editora O'Reilly](http://shop.oreilly.com/product/0636920033769.do)**
-
------
 
 [Índice](toc.md)
 

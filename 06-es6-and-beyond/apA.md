@@ -1,4 +1,5 @@
-# You Don't Know JS: ES6 & além
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
 # Apêndice A: Agradecimentos
 
 Eu tenho muitas pessoas a agradecer por tornar este livro e toda a série realidade.
@@ -18,3 +19,7 @@ A série de livros *You Don't Know JS* nasceu no Kickstarter, então eu também 
 Esta série de livros está sendo produzida em forma de código aberto, incluindo edição e produção. Nós temos com o GitHub um débito de gratidão por tornar tal feito possível para a comunidade!
 
 Mais uma vez, obrigado a todas as incontáveis pessoas que eu não citei, mas que, no entanto, devo gratidão. Esta série de livros poderá ser "propriedade" de todos nós e servir para contribuir para o aumento da consciência e entendimento da linguagem JavaScript, para o benefício de todos os colaboradores atuais e futuros da comunidade.
+
+---
+
+[⬅️ Capítulo 8: ES6 & Além](ch8.md)

@@ -1,4 +1,5 @@
-# You Don't Know JS: ES6 & Além
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
 # Capítulo 8: ES6 & Além
 
 No momento atual em que escrevo, o rascunho final do ES6 (*ECMAScript 2015*) está perto de ser encaminhado ao último voto oficial de aprovação pelo ECMA. Entretanto, ao mesmo tempo em que o ES6 está sendo finalizado, o comitê TC39 já está trabalhando duro nas funcionalidades para o ES7/2016 e além. 
@@ -437,3 +438,9 @@ Mas JS não é só ES6! Nem perto disso. Já existem algumas novas funcionalidad
 `async function`s são açucar sintáticos poderosos além dos padrões de generators + promises (veja o Capítulo 4). `Object.observe(..)` adiciona suporte diretamente nativo para observar mudanças de eventos em objetos, o que é crítico para implementação de data binding. O operador de exponenciação `**`, o `...` para propriedades de objetos, e `Array#includes(..)` são todas melhoras simples mas úteis para os mecanismos existentes. Finalmente, SIMD segue em uma nova era de evolução de JS com alta performance.
 
 Por mais que soe cliche, o futuro do JS é realmente brilhante! O desafio dessa série, e de fato desse livro, está estabelecida em todas as pessoas leitoras agora. O que você está esperando? É hora de aprender e explorar!
+
+---
+
+[⬅️ Capítulo 7: Metaprogramação](ch7.md)
+
+[➡️ Apêndice A: Agradecimentos](apA.md)

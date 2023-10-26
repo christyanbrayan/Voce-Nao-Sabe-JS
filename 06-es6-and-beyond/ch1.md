@@ -1,5 +1,6 @@
-# You Don't Know JS: ES6 & Além
-# Chapter 1: ES? Presente e Futuro
+# [Livro 6 - ES6 & além](../06-es6-and-beyond/)
+
+# Capítulo 1: ES? Presente e Futuro
 
 Antes de mergulhar neste livro, você deve ter uma sólida proficiência de trabalho sobre o JavaScript até o padrão mais recente (no momento da redação deste artigo), que é comumente chamado de *ES5* (tecnicamente `ES 5.1`). Aqui, planejamos falar diretamente sobre o próximo *ES6*, também como moldar nossa visão além de entender como o JavaScript irá evoluir.
 
@@ -117,3 +118,9 @@ Agora, as funcionalidades do JavaScript aparecem nos navegadores à medida que s
 Independente dos rótulos que o futuro adote, ele vai se mover muito mais rápido do que nunca. Transpiladores e shims/polyfills são ferramentas importantíssimas para manter você à frente de onde a linguagem é direcionada.
 
 Se existe alguma narrativa importante para entender sobre a nova realidade para JavaScript, é que todos os desenvolvedores de JS estão fortemente implorando para sair da borda da curva para a borda de ataque. E aprender ES6 é onde tudo começa!
+
+---
+
+[⬅️ Índice](toc.md)
+
+[➡️ Capítulo 2: Sintaxe](ch2.md)
