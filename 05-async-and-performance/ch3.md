@@ -1,5 +1,6 @@
-# You Don't Know JS: Async & Performance
-# Chapter 3: Promises
+# [Livro 5 - Async & Performance](../05-async-and-performance/)
+
+# Capítulo 3: Promises
 
 In Chapter 2, we identified two major categories of deficiencies with using callbacks to express program asynchrony and manage concurrency: lack of sequentiality and lack of trustability. Now that we understand the problems more intimately, it's time we turn our attention to patterns that can address them.
 
@@ -2128,3 +2129,9 @@ Promises are awesome. Use them. They solve the *inversion of control* issues tha
 They don't get rid of callbacks, they just redirect the orchestration of those callbacks to a trustable intermediary mechanism that sits between us and another utility.
 
 Promise chains also begin to address (though certainly not perfectly) a better way of expressing async flow in sequential fashion, which helps our brains plan and maintain async JS code better. We'll see an even better solution to *that* problem in the next chapter!
+
+---
+
+[⬅️ Capítulo 2: Callbacks](ch2.md)
+
+[➡️ Capítulo 4: Geradores](ch4.md)

@@ -1,4 +1,5 @@
-# You Don't Know JS: Async e Performance
+# [Livro 5 - Async & Performance](../05-async-and-performance/)
+
 # Apêndice A: Biblioteca *asynquence*
 
 Os capítulos 1 e 2 trouxeram em detalhes padrões típicos da programação assíncrona e como estes se baseiam em callbacks. Mas também vimos que callbacks são fatalmente limitados em termos de capacidade, o que nos levou aos capítulos 3 e 4, com Promises e generators oferecendo uma base muito mais sólida, confiável e compreensível para construção de sua assincronia.
@@ -826,3 +827,9 @@ You've now seen the essence and spirit of *asynquence*. The key take away is tha
 If these *asynquence* snippets have made sense to you, you're now pretty well up to speed on the library; it doesn't take that much to learn, actually!
 
 If you're still a little fuzzy on how it works (or why!), you'll want to spend a little more time examining the previous examples and playing around with *asynquence* yourself, before going on to the next appendix. Appendix B will push *asynquence* into several more advanced and powerful async patterns.
+
+---
+
+[⬅️ 6: Benchmarking & Tuning](ch6.md)
+
+[➡️ Appendix B: Advanced Async Patterns](apB.md)

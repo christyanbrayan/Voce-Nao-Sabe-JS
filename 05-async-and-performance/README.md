@@ -1,12 +1,6 @@
-# You Don't Know JS: Async & Performance
+# [Livro 5 - Async & Performance](../05-async-and-performance/)
 
 <img src="cover.jpg" width="300">
-
------
-
-**[Adquira uma cópia digital/impressa pela Editora O'Reilly](http://shop.oreilly.com/product/0636920033769.do)**
-
------
 
 [Índice](toc.md)
 

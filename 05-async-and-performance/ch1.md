@@ -1,4 +1,5 @@
-# You Don't Know JS: Async e Performance
+# [Livro 5 - Async & Performance](../05-async-and-performance/)
+
 # Capítulo 1: Assincronia: Agora & Depois
 
 Um dos assuntos mais importantes e ainda assim muitas vezes mal interpretado ao programar em uma linguagem como JavaScript, se trata de expressar e manipular a propagação do comportamento do programa executado durante um certo espaço de tempo.
@@ -888,3 +889,9 @@ Em qualquer momento, apenas um evento pode ser processado da lista por vez. Enqu
 Concorrência é quando duas ou mais cadeias de eventos se intercalam ao longo do tempo, de maneira que de uma perspectiva ampla, elas aparentem estar rodando *simultaneamente* (apesar de que em qualquer momento apenas um evento é processado).
 
 Frequentemente é necessário fazer algum tipo de coordenação de interação entre "processos" concorrentes (diferentes de processos de sistema operacional), por exemplo, para garantir ordenamento ou prevenir "condição de corrida". Tais "processos" também podem *cooperar* ao se separar em pedaços menores e permitir que outros "processos" intercalem.
+
+---
+
+[⬅️ índice](toc.md)
+
+[➡️ Capítulo 2: Callbacks](ch2.md)

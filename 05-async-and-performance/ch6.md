@@ -1,4 +1,5 @@
-# You Don't Know JS: Async & Performance
+# [Livro 5 - Async & Performance](../05-async-and-performance/)
+
 # Chapter 6: Benchmarking & Tuning
 
 As the first four chapters of this book were all about performance as a coding pattern (asynchrony and concurrency), and Chapter 5 was about performance at the macro program architecture level, this chapter goes after the topic of performance at the micro level, focusing on single expressions/statements.
@@ -617,3 +618,9 @@ It's important to get as many test results from as many different environments a
 Many common performance tests unfortunately obsess about irrelevant microperformance details like `x++` versus `++x`. Writing good tests means understanding how to focus on big picture concerns, like optimizing on the critical path, and avoiding falling into traps like different JS engines' implementation details.
 
 Tail call optimization (TCO) is a required optimization as of ES6 that will make some recursive patterns practical in JS where they would have been impossible otherwise. TCO allows a function call in the *tail position* of another function to execute without needing any extra resources, which means the engine no longer needs to place arbitrary restrictions on call stack depth for recursive algorithms.
+
+---
+
+[⬅️ Capítulo 5: Program Performance](ch5.md)
+
+[➡️ Apêndice A: Biblioteca *asynquence*](ch6.md)

@@ -1,5 +1,6 @@
-# You Don't Know JS: Async & Performance
-# Chapter 2: Callbacks
+# [Livro 5 - Async & Performance](../05-async-and-performance/)
+
+# Capítulo 2: Callbacks
 
 No capítulo 1, nós exploramos a terminologia e conceitos acerca da programação assíncrona no JavaScript. Nosso foco foi entender a fila de loop de eventos mono-thread que guia todos os "eventos" (invocação assíncrona de funções). Também exploramos diversas formas que padrões de concorrência explicam as relações (se houver alguma!) entre cadeias de eventos *executadas simultaneamente*, ou "processos" (tarefas, chamadas de funções, etc.).
 
@@ -605,3 +606,9 @@ Inventing ad hoc logic to solve these trust issues is possible, but it's more di
 We need a generalized solution to **all of the trust issues**, one that can be reused for as many callbacks as we create without all the extra boilerplate overhead.
 
 We need something better than callbacks. They've served us well to this point, but the *future* of JavaScript demands more sophisticated and capable async patterns. The subsequent chapters in this book will dive into those emerging evolutions.
+
+---
+
+[⬅️ Capítulo 1: Assincronia: Agora & Depois](ch1.md)
+
+[➡️ Capítulo 3: Promises](ch3.md)

@@ -1,5 +1,6 @@
-# You Don't Know JS: Async & Performance
-# Chapter 5: Program Performance
+# [Livro 5 - Async & Performance](../05-async-and-performance/)
+
+# Capítulo 5: Program Performance
 
 This book so far has been all about how to leverage asynchrony patterns more effectively. But we haven't directly addressed why asynchrony really matters to JS. The most obvious explicit reason is **performance**.
 
@@ -366,3 +367,9 @@ SIMD proposes to map CPU-level parallel math operations to JavaScript APIs for h
 Finally, asm.js describes a small subset of JavaScript that avoids the hard-to-optimize parts of JS (like garbage collection and coercion) and lets the JS engine recognize and run such code through aggressive optimizations. asm.js could be hand authored, but that's extremely tedious and error prone, akin to hand authoring assembly language (hence the name). Instead, the main intent is that asm.js would be a good target for cross-compilation from other highly optimized program languages -- for example, Emscripten (https://github.com/kripken/emscripten/wiki) transpiling C/C++ to JavaScript.
 
 While not covered explicitly in this chapter, there are even more radical ideas under very early discussion for JavaScript, including approximations of direct threaded functionality (not just hidden behind data structure APIs). Whether that happens explicitly, or we just see more parallelism creep into JS behind the scenes, the future of more optimized program-level performance in JS looks really *promising*.
+
+---
+
+[⬅️ Capítulo 4: Geradores](ch4.md)
+
+[➡️ Capítulo 6: Benchmarking & Tuning](ch6.md)

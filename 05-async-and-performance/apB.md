@@ -1,4 +1,5 @@
-# You Don't Know JS: Async & Performance
+# [Livro 5 - Async & Performance](../05-async-and-performance/)
+
 # Appendix B: Advanced Async Patterns
 
 O apêndice A introduziu a biblioteca *asynquence* para controle de fluxo assíncrono sequencial primariamente baseada em Promises e generators.
@@ -832,3 +833,9 @@ Promises and generators provide the foundational building blocks upon which we c
 *asynquence* has utilities for implementing *iterable sequences*, *reactive sequences* (aka "Observables"), *concurrent coroutines*, and even *CSP goroutines*.
 
 Those patterns, combined with the continuation-callback and Promise capabilities, gives *asynquence* a powerful mix of different asynchronous functionalities, all integrated in one clean async flow control abstraction: the sequence.
+
+---
+
+[⬅️ Apêndice A: Biblioteca *asynquence*](apA.md)
+
+[➡️ Appendix C: Agradecimentos](apC.md)
