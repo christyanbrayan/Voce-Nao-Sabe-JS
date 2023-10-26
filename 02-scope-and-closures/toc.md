@@ -1,9 +1,7 @@
-# You Don't Know JS: Escopos & Closures
+[# Livro 2 - Escopos & Closures](../02-scope-and-closures/)
 
 ## Índice
 
-* [Introdução](../01-up-and-going/foreword.md)
-* [Prefácio](../preface.md)
 * [Capítulo 1: O que é Escopo?](ch1.md)
 	* [Teoria de Compiladores](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch1.html#teoria-de-compiladores)
 	* [Entendendo Escopo](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch1.html#entendendo-escopo)

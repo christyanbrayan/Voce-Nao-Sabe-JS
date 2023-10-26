@@ -1,4 +1,5 @@
-# Livro 2 - Escopos & Closures
+[# Livro 2 - Escopos & Closures](../02-scope-and-closures/)
+
 # Capítulo 5: Closures de Escopo
 
 Com esperança, até este ponto nós já alcançamos uma compreensão sólida e muito saudável de como escopo funciona.

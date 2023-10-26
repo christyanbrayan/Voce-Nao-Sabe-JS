@@ -1,4 +1,4 @@
-# Livro 2 - Escopos & Closures
+[# Livro 2 - Escopos & Closures](../02-scope-and-closures/)
 
 <img src="cover.jpg" width="300">
 

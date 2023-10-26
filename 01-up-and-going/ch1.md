@@ -1,4 +1,5 @@
-# Livro 1 - Iniciando
+# [Livro 1 - Iniciando](../01-up-and-going/)
+
 # Capítulo 1: Iniciando
 
 Bem vindo à série *You Don't Know JS* (*YDKJS*).

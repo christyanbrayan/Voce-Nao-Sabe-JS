@@ -1,4 +1,5 @@
-# Livro 2 - Escopos & Closures
+[# Livro 2 - Escopos & Closures](../02-scope-and-closures/)
+
 # Apêndice A: Escopo Dinâmico
 
 No Capítulo 2, falamos sobre "Escopo Dinâmico" como um contraste ao modelo de "Escopo Léxico", que é como os escopos funcionam em JavaScript (e, de fato, na maioria das linguagens).

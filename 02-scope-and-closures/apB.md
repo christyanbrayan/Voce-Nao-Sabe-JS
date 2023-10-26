@@ -1,4 +1,5 @@
-# Livro 2 - Escopos & Closures
+[# Livro 2 - Escopos & Closures](../02-scope-and-closures/)
+
 # Apêndice B: Polyfilling Escopo de Bloco
 
 No Capítulo 3, nós exploramos o Escopo de Bloco. Nós vimos que as cláusulas `with` e `catch` são, ambas, pequenos exemplos de escopo de bloco que existem em JavaScript desde de, pelo menos, a introdução ao ES3.

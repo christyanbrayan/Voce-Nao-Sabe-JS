@@ -1,4 +1,5 @@
-# Livro 1 - Iniciando
+# [Livro 1 - Iniciando](../01-up-and-going/)
+
 # Introdução
 
 Qual foi a última vez que você aprendeu algo novo?

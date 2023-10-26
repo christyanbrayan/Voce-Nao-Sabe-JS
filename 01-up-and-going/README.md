@@ -1,4 +1,4 @@
-# Livro 1 - Iniciando
+# [Livro 1 - Iniciando](../01-up-and-going/)
 
 <img src="cover.jpg" width="300">
 

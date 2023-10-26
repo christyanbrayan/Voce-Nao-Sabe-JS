@@ -1,4 +1,5 @@
-# Livro 2 - Escopos & Closures
+[# Livro 2 - Escopos & Closures](../02-scope-and-closures/)
+
 # Apêndice C: Lexical-this
 
 Embora este título não aborde o mecanismo `this` em seus detalhes, existe um tópico que se refere ao escopo léxico `this` de forma significativa, que vamos examinar rapidamente.

@@ -1,5 +1,6 @@
 
-# Livro 1 - Iniciando
+# [Livro 1 - Iniciando](../01-up-and-going/)
+
 # Apêndice A: Agradecimentos
 
 Tenho tantas pessoas à agradecer por fazer essa série de livros se tornar realidade.
