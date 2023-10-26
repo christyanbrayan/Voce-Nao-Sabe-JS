@@ -1,4 +1,5 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
+
 # Introdução
 
 Enquanto eu lia este livro, me preparando para escrever esta introdução, fui forçado a refletir sobre como eu aprendi JavaScript e o tanto que a linguagem mudou nos últimos 15 anos em que venho programando e desenvolvendo com ela.

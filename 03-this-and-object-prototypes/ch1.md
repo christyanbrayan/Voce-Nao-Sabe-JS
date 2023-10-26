@@ -1,4 +1,5 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
+
 # Capítulo 1: `this` Ou Aquilo?
 
 Um dos mecanismos mais confusos no JavaScript é a palavra-chave `this`. É uma palavra-chave de identificação especial que é definida automaticamente no escopo de cada função, mas o que exatamente ela se refere atormenta até mesmo os desenvolvedores JavaScript mais experientes.
@@ -279,3 +280,9 @@ O vínculo `this` é uma constante fonte de confusão para os desenvolvedores Ja
 Para entender o `this`, você primeiro precisa aprender o que o `this` *não* é, apesar de quaisquer suposições ou equívocos que podem levá-lo por esses caminhos. `this` não é uma referência para a própria função, nem é uma referência para o escopo *léxico* da função.
 
 `this` na verdade é um vínculo que é feito quando a função é chamada, e *o que* é referenciado é determinado inteiramente pelo call-site de onde a função é chamada.
+
+---
+
+[⬅️ índice](toc.md)
+
+[➡️ Capítulo 2: `this` Agora tudo faz sentido!](ch2.md)

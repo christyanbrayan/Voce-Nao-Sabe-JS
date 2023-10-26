@@ -1,4 +1,5 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
+
 # Capítulo 5: Protótipos
 
 Nos capítulos 3 e 4, nós mencionamos a cadeia `[[Prototype]]` por diversas vezes, mas não havíamos dito ainda do que exatamente se trata. Agora, nós vamos examinar protótipos em detalhes.
@@ -750,3 +751,9 @@ Enquanto esses mecânismos JavaScript podem lembrar "instanciamento de classe" e
 Por uma variedade de motivos, não menos que uma terminologia precedente, "herança" (e "herança prototípica") e todos os termos de orientação à objetos não fazem nenhum sentido quando considera-se como JavaScript funciona *de fato* (e não apenas aplicados aos nossos modelos mentais forçados).
 
 Ao invés disso, "delegação" é um termo muito mais apropriado, porque esses relacionamentos não são *cópias* mas sim **ligações** delegadas.
+
+---
+
+[⬅️ Capítulo 4: Confundindo Objetos com "Classes"](ch4.md)
+
+[➡️ Capítulo 6: Delegação de Comportamentos](ch6.md)

@@ -1,4 +1,5 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
+
 # Apêndice B: Agradecimentos
 
 Eu tenho que agradecer à muitas pessoas pela construção deste livro e por fazerem toda a série acontecer.
@@ -18,3 +19,9 @@ A série de livros *You Don't Know JS* nasceu no Kickstarter, então eu também 
 Esta série de livros está sendo produzido num estilo código aberto, incluindo a edição e produção. Devemos ao GitHub a gratidão para fazer esse tipo de coisa possível para a comunidade!
 
 Mais uma vez, obrigado a todos os incontáveis que eu não sei o nome, mas pelos quais eu sou grato. Que esta série de livros seja "propriedade" de todos nós e sirva para contribuir com o crescimento e a compreensão da linguagem JavaScript, para benefício de todos os colaboradores da comunidade, atuais e futuros.
+
+---
+
+[⬅️ Apêndice A: ES6 `class`](apA.md)
+
+[➡️ Livro 4 - Tipos & Gramática](../04-types-and-grammar/)

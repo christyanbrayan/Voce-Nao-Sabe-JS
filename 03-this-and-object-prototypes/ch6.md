@@ -1,4 +1,5 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
+
 # Capítulo 6: Delegação de Comportamentos
 
 No Capítulo 5, nós abordamos detalhadamente o mecânismo `[[Prototype]]`, e o *porquê* de ser confuso e inapropriado (apesar das incontáveis tentativas por quase duas décadas) descrevê-lo como "classe" ou "herança". Vimos à fundo não só sua síntaxe razoavelmente prolixa (`.prototype` sujando o código), mas também as armadilhas (como a surpreendente resolução de `.constructor` ou a horrível síntaxe pseudo-polimórfica). E exploramos as variações da abordagem "mixin", que muitas pessoas utilizam para tentar suavizar áreas mais pesadas.
@@ -914,3 +915,9 @@ Behavior delegation suggests objects as peers of each other, which delegate amon
 When you design code with objects only, not only does it simplify the syntax you use, but it can actually lead to simpler code architecture design.
 
 **OLOO** (objects-linked-to-other-objects) is a code style which creates and relates objects directly without the abstraction of classes. OLOO quite naturally implements `[[Prototype]]`-based behavior delegation.
+
+---
+
+[⬅️ Capítulo 5: Protótipos](ch5.md)
+
+[➡️ Apêndice A: ES6 `class`](apA.md)

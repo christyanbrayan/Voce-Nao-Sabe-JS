@@ -1,4 +1,5 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
+
 # Capítulo 4: Confundindo Objetos com "Classes"
 
 Continuando com nossa exploração de objetos do capítulo anterior, é natural que agora nós demos atenção a "programação orientada a objetos (OO)", com "classes". Nós primeiro iremos olhar para "orientação à classes" como um padrão de projeto, antes de examinar as mecânicas de "classes": "instanciação", "herança" e "polimorfismo (relativo)".
@@ -479,3 +480,8 @@ Mixins explícitos também não são exatamente iguais a uma *cópia* de classe,
 
 Em geral, imitar classes em JS geralmente criam mais minas terrestres para o código futuro do que soluções de problemas atuais *reais*.
 
+---
+
+[⬅️ Capítulo 3: Objetos](ch3.md)
+
+[➡️ Capítulo 5: Protótipos](ch5.md)

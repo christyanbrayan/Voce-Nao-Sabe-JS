@@ -1,4 +1,5 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
+
 # Capítulo 3: Objetos
 
 Nos capítulos 1 e 2, nós explicamos como a ligação do `this` aponta para vários objetos dependendo de onde é feita a chamada da função. Mas o que exatamente são objetos e por que nós precisamos salientá-los? Nós aprenderemos sobre objetos, em detalhes, nesse capítulo.
@@ -951,3 +952,9 @@ Propriedades têm certas características que podem ser controladas por decritor
 Propriedades não têm que conter valores -- elas podem ser "propriedades de acessor" também, com getters/setters. Elas também podem ser *enumeráveis* ou não, que controlam se eles aparecem nas iterações do laço `for..in`, por exemplo.
 
 Você também pode iterar sobre **os valores** nas estruturas de dados (arrays, objetos etc) usando a sintaxe `for..of` do ES6, que procura por um objeto `@@iterator` nativo ou personalizado consistindo de um método `next()` para avançar pelos valores de dados um de cada vez.
+
+---
+
+[⬅️ Capítulo 2: `this` Agora tudo faz sentido!](ch2.md)
+
+[➡️ Capítulo 4: Confundindo Objetos com "Classes"](ch3.md)

@@ -1,4 +1,5 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
+
 # Capítulo 2: `this` Agora tudo faz sentido!
 
 No Capítulo 1, nós eliminamos diversos equívocos relacionados à `this` e aprendemos que `this` é um *binding* feito para cada invocação de função, baseado inteiramente no seu **call-site** (como a função é chamada).
@@ -855,3 +856,9 @@ Determinar a ligação `this` para uma função em execução requer que se enco
 Cuidado com a invocação acidental/involuntária da regra *default binding*. Nos casos em que você deseja "com segurança" ignorar o binding de `this`, um objeto "DMZ" como `ø = Object.create(null)` é um bom placeholder que protege o objeto `global` de efeitos colaterais indesejados.
 
 Em vez das quatro regras de binding padrão, as arrow functions do ES6 usam o escopo léxico para o binding de `this`, o que significa que adotam binding `this` (o que quer que seja) de sua chamada de função delimitadora. Eles são essencialmente uma substituição sintática de `self = this` na codificação pré-ES6.
+
+---
+
+[⬅️ Capítulo 1: `this` Ou Aquilo?](ch1.md)
+
+[➡️ Capítulo 3: Objetos](ch3.md)

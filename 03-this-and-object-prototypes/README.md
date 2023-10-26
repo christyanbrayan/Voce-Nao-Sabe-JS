@@ -1,16 +1,10 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+[# Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
 
 <img src="cover.jpg" width="300">
 
------
-
-**[Adquira a cópia digital/impressa pela Editora O'Reilly](http://shop.oreilly.com/product/0636920033738.do)**
-
------
-
 [Índice](toc.md)
 
-* [Introdução](foreword.md) (por [Nick Berardi](https://github.com/nberardi))
+* [Introdução](foreword.md) (por [Nick Berardi](https://github.com/nberardi) em Inglês)
 * [Prefácio](../preface.md)
 * [Capítulo 1: *this* Ou Aquilo?](ch1.md)
 * [Capítulo 2: *this* Agora tudo faz sentido!](ch2.md)

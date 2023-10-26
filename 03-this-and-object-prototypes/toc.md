@@ -1,40 +1,38 @@
-# You Don't Know JS: *this* & Prototipagem de Objetos
+# [ Livro 3 - *this* & Prototipagem de Objetos](../03-this-and-object-prototypes/)
 
 ## Índice
 
-* Introdução
-* Prefácio
-* Capítulo 1: `this` Ou Aquilo?
-	* Porque `this`?
-	* Confusões
-	* O que é `this`?
-* Capítulo 2: `this` Agora tudo faz sentido!
-	* Call-site
-	* Nada além de Regras
-	* Tudo em Ordem
-	* Exceções de Binding
-	* `this` Léxico
-* Capítulo 3: Objetos
-	* Sintaxe
-	* Tipo
-	* Conteúdos
-	* Iteração
-* Capítulo 4: Confundindo Objetos com "Classes"
-	* Teoria do Classes
-	* Mecânica do Classes
-	* Heranças de Classe
-	* Mixins
-* Capítulo 5: Protótipos
-	* `[[Prototype]]`
-	* "Classes"
-	* "Herança (Prototípica)"
-	* Ligações de Objeto
-* Capítulo 6: Delegação de Comportamentos
-	* Em Direção ao Design Orientado à Delegação
-	* Classes vs. Objetos
-	* Design Simplificado
-	* Sintaxe Melhorada
-	* Introspecção
-* Apêndice A: ES6 `class`
-* Apêndice B: Agradecimentos
-
+* [Introdução](foreword.md)
+* [Capítulo 1: `this` Ou Aquilo?](ch1.md)
+	* [Porque `this`?](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch1.html#por-que-this)
+	* [Confusões](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch1.html#confus%C3%B5es)
+	* [O que é `this`?](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch1.html#o-que-%C3%A9-this)
+* [Capítulo 2: `this` Agora tudo faz sentido!](ch2.md)
+	* [Call-site](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch2.html#call-site)
+	* [Nada além de Regras](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch2.html#nada-al%C3%A9m-de-regras)
+	* [Tudo em Ordem](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch2.html#tudo-em-ordem)
+	* [Exceções de Binding](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch2.html#exce%C3%A7%C3%B5es-do-binding)
+	* [`this` Léxico](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch2.html#this-l%C3%A9xico)
+* [Capítulo 3: Objetos](ch3.md)
+	* [Sintaxe](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch3.html#sintaxe)
+	* [Tipo](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch3.html#tipo)
+	* [Conteúdos](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch3.html#conte%C3%BAdos)
+	* [Iteração](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch3.html#itera%C3%A7%C3%A3o)
+* [Capítulo 4: Confundindo Objetos com "Classes"](ch4.md)
+	* [Teoria das Classes](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch4.html#teoria-das-classes)
+	* [Mecânica das Classes](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch4.html#mec%C3%A2nica-das-classes)
+	* [Heranças de Classe](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch4.html#heran%C3%A7as-de-classe)
+	* [Mixins](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch4.html#mixins)
+* [Capítulo 5: Protótipos](ch5.md)
+	* [`[[Prototype]]`](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch5.html#prototype)
+	* ["Classes"](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch5.html#classes)
+	* ["Herança (Prototípica)"](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch5.html#heran%C3%A7a-protot%C3%ADpica)
+	* [Ligações de Objeto](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch5.html#liga%C3%A7%C3%B5es-de-objeto)
+* [Capítulo 6: Delegação de Comportamentos](ch6.md)
+	* [Em Direção ao Design Orientado à Delegação](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch6.html#em-dire%C3%A7%C3%A3o-ao-design-orientado-%C3%A0-delega%C3%A7%C3%A3o)
+	* [Classes vs. Objetos](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch6.html#classes-vs-objetos)
+	* [Design Simplificado](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch6.html#simpler-design)
+	* [Sintaxe Melhorada](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch6.html#nicer-syntax)
+	* [Introspecção](https://christyanbrayan.github.io/VoceNaoSabeJS/03-this-and-object-prototypes/ch6.html#introspection)
+* [Apêndice A: ES6 `class`](apA.md)
+* [Apêndice B: Agradecimentos](apB.md)
