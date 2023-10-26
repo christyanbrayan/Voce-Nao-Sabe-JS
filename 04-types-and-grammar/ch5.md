@@ -1,4 +1,5 @@
-# You Don't Know JS: Types & Grammar
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
+
 # Capítulo 5: Gramática
 
 O último tópico a ser abordado é a sintaxe do JavaScript (também conhecida como sendo sua gramática). Você pode pensar que sabe escrever JS, mas há muitas nuances em sua gramática que levam ao equívoco, então queremos nos aprofundar nessas partes e esclarecê-las.
@@ -1386,3 +1387,9 @@ Function arguments have an interesting relationship to their formal declared nam
 The `finally` clause attached to a `try` (or `try..catch`) offers some very interesting quirks in terms of execution processing order. Some of these quirks can be helpful, but it's possible to create lots of confusion, especially if combined with labeled blocks. As always, use `finally` to make code better and clearer, not more clever or confusing.
 
 The `switch` offers some nice shorthand for `if..else if..` statements, but beware of many common simplifying assumptions about its behavior. There are several quirks that can trip you up if you're not careful, but there's also some neat hidden tricks that `switch` has up its sleeve!
+
+---
+
+[⬅️ Capitulo 4: Coerção](ch4.md)
+
+[➡️ Apêndice A: JavaScript em Ambiente Misto](apA.md)

@@ -1,39 +1,36 @@
-# You Don't Know JS: Tipos & Gramática
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
 
 ## Índice
 
-* Introdução
-* Prefácio
-* Capítulo 1: Tipos
-	* Um Tipo por Qualquer Outro Nome...
-	* Tipos Nativos (Built-In)
-	* Valores como Tipos
-* Capítulo 2: Valores
-	* Arrays
-	* Strings
-	* Numbers
-	* Valores Especiais
-	* Valor vs Referência
-* Capítulo 3: Nativos
-	* Internos `[[Class]]`
-	* Encaixotando Agregadores (Boxing Wrappers)
-	* Desencaixotando (Unboxing)
-	* Natives as Constructors
-* Capítulo 4: Coerção
-	* Convertendo Valores
-	* Operações com Valores Abstratos
-	* Coerção Explícita
-	* Coerção Implícita
-	* Igualdade vs Igualdade Estrita
-	* Comparação Relacional Abstrata
-* Capítulo 5: Gramática
-	* Instruções & Expressões
-	* Precedência de Operadores
-	* Ponto e Vírgula Automàtico
-	* Erros
-	* Argumentos de Funções
-	* `try..finally`
-	* `switch`
-* Apêndice A: JavaScript em Ambiente Misto
-* Apêndice B: Agradecimentos
-
+* [Introdução](foreword.md)
+* [Capítulo 1: Tipos](ch1.md)
+	* [Tipos Nativos (Built-In)](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch1.html#tipos-nativos-built-in)
+	* [Valores como Tipos](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch1.html#valores-como-tipos)
+* [Capítulo 2: Valores](ch2.md)
+	* [Arrays](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch2.html#arrays)
+	* [Strings](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch2.html#strings)
+	* [Numbers](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch2.html#n%C3%BAmeros)
+	* [Valores Especiais](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch2.html#valores-especiais)
+	* [Valor vs Referência](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch2.html#value-vs-reference)
+* [Capítulo 3: Nativos](ch3.md)
+	* [`[[Class]]` Interno](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch3.html#class-interno)
+	* [Encaixotando Agregadores (Boxing Wrappers)](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch3.html#boxing-wrappers)
+	* [Desencaixotando (Unboxing)](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch3.html#unboxing)
+	* [Natives as Constructors](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch3.html#nativos-como-construtores)
+* [Capítulo 4: Coerção](ch4.md)
+	* [Convertendo Valores](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch4.html#convertendo-valores)
+	* [Operações com Valores Abstratos](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch4.html#opera%C3%A7%C3%B5es-de-valor-abstrato)
+	* [Coerção Explícita](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch4.html#coer%C3%A7%C3%A3o-expl%C3%ADcita)
+	* [Coerção Implícita](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch4.html#coer%C3%A7%C3%A3o-impl%C3%ADcita)
+	* [Igualdade vs Igualdade Estrita](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch4.html#igualdade-ampla-vs-igualdade-estrita)
+	* [Comparação Relacional Abstrata](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch4.html#compara%C3%A7%C3%A3o-relacional-abstrata)
+* [Capítulo 5: Gramática](ch5.md)
+	* [Instruções & Expressões](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch5.html#instru%C3%A7%C3%B5es--express%C3%B5es)
+	* [Precedência de Operadores](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch5.html#operator-precedence)
+	* [Ponto e Vírgula Automàtico](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch5.html#automatic-semicolons)
+	* [Erros](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch5.html#errors)
+	* [Argumentos de Funções](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch5.html#function-arguments)
+	* [`try..finally`](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch5.html#tryfinally)
+	* [`switch`](https://christyanbrayan.github.io/VoceNaoSabeJS/04-types-and-grammar/ch5.html#switch)
+* [Apêndice A: JavaScript em Ambiente Misto](apA.md)
+* [Apêndice B: Agradecimentos](apB.md)

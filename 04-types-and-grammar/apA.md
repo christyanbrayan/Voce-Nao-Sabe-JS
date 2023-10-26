@@ -1,4 +1,5 @@
-# You Don't Know JS: Tipos e Gramática
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
+
 # Apêndice A: JavaScript em Ambiente Misto
 
 Além da mecânica principal da linguagem que exploramos completamente neste livro, há vários comportamentos diferentes que seu código JS pode apresentar quando ele roda no mundo real. Se o JS estava sendo executando puramente dentro do motor, ele pode ser totalmente previsível baseado em nada além da especificação. Mas JS quase sempre roda no contexto de um ambiente hosteado, o que expôe seu código à alguns graus de imprevisibilidade.
@@ -394,3 +395,9 @@ Sabemos que podemos confiar que a própria linguagem JS tem um padrão e é prev
 Mas o javascript raramente executa isoladamente. Ele roda em um abiente misto e com códigos de bibliotecas terceiras, e algumas vezes até roda em motores/ambientes que diferem daqueles encontrados nos navagadores.
 
 Prestar muita atenção para essas questões melhora a confiabilidade e robustez do seu código.
+
+---
+
+[⬅️ Capítulo 5: Gramática](ch5.md)
+
+[➡️ Apêndice B: Agradecimentos](apB.md)

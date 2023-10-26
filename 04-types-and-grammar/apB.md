@@ -1,4 +1,5 @@
-# You Don't Know JS: Tipos & Gramática
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
+
 # Apêndice B: Agradecimentos
 
 Tenho tantas pessoas a agradecer por fazer essa série de livros se tornar realidade.
@@ -18,3 +19,9 @@ Desde que a série "You Don't Know JS" foi criada no Kickstarter, eu gosto de ag
 Essa série está sendo produzida de maneira open source, incluindo a edição e produção. Nós temos uma dívida de gradidão ao GitHub por fazer esse tipo de acontecimento possível para a comunidade!
 
 Obrigado novamente a todas as incontáveis pessoas que não pude nomear, mas a quem eu devo meus agradecimentos. Que essa série de livros possa ser de "propriedade" de todos nós e servir para disseminar o conhecimento da linguagem JavaScript, para benefício de todos os que contribuem para a comunidade de hoje e de amanhã.
+
+---
+
+[⬅️ Apêndice A: JavaScript em Ambiente Misto](apA.md)
+
+[➡️ Livro 5 - Livro 5 - Async & Performance](../05-async-and-performance/)

@@ -1,4 +1,5 @@
-# You Don't Know JS: Tipos e Gramática
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
+
 # Capitulo 4: Coerção
 
 Agora que nós entendemos melhor os tipos e valores do JavaScript, vamos voltar nossa atenção para um tópico muito controverso: coerção.
@@ -1924,3 +1925,9 @@ Coerção *explícita* é o código que é óbvio que a intenção é converter 
 Coerção *implícita* é a coerção que está "escondida" como um efeito colateral de alguma outra operação, onde não é tão óbvio o tipo de conversão que vai acontecer. Enquanto parece que a coerção *implícita* é o oposto da *explícita*, e portanto, é ruim (e de fato, muitos pensam que sim!), na verdade, coerção *implícita* é também sobre melhorar a legibilidade do código.
 
 Especialmente para *implícita*, coerção deve ser usada com responsabilidade e conscientemente. Saber por que você está escrevendo o código que está escrevendo, e como ele funciona. Esforce-se para escrever códigos que outros facilmente possam aprender e entender também.
+
+---
+
+[⬅️ Capítulo 3: Nativos](ch3.md)
+
+[➡️ Capítulo 5: Gramática](ch5.md)

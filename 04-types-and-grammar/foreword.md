@@ -1,4 +1,5 @@
-# You Don't Know JS: Types & Grammar
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
+
 # Foreword
 
 It was once said, "JavaScript is the only language developers don't learn to use before using it."

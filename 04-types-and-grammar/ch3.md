@@ -1,4 +1,5 @@
-# You Don't Know JS: Tipos e Gramática
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
+
 # Capítulo 3: Nativos
 
 Várias vezes nos Capítulos 1 e 2, nós aludimos à vários nativos, como `String` e `Number`. Vamos examiná-los em detalhes agora.
@@ -485,3 +486,9 @@ Também, tenha bastante cuidado em não usar `Array.prototype` como um valor pad
 O Javascript disponibiliza *object wrappers* ao redor de valores primitivos, conhecidos como nativos (`String`, `Number`, `Boolean`, etc). Estes *object wrappers* dão aos valores acesso aos comportamentos apropriados para o subtipo de cada objeto (`String#trim()` e `Array#concat(..)`).
 
 Se tem um simples valor primitivo como `"abc"` e você acessa a sua propriedade `length` ou outro método de `String.prototype`, o JS automaticamente "boxes" o valor (envolve ele no se respectivo *object wrapper*) para que o acesso da propriedade/método para ser cumprido.
+
+---
+
+[⬅️ Capítulo 2: Valores](ch2.md)
+
+[➡️ Capitulo 4: Coerção](ch4.md)

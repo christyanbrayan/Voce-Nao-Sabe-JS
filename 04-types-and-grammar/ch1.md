@@ -1,4 +1,5 @@
-# You Don't Know JS: Tipos e Gramática
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
+
 # Capítulo 1: Tipos
 
 Muitos desenvolvedores diriam que uma linguagem dinâmica (como JS) não possui *tipos*. Vamos ver o que a especificação ES5.1 (http://www.ecma-international.org/ecma-262/5.1/) tem a dizer sobre este tópico:
@@ -298,3 +299,9 @@ Muitos desenvolvedores assumirão que "undefined" e "undeclared" são, grosseira
 O JavaScript, infelizmente, combina esses dois termos não só nas suas mensagens de erro ("ReferenceError: a is not defined (Erro de referência: a não está definido)"), mas também no valor retornado pelo `typeof`, que é `"undefined"` para os dois casos.
 
 No entando, a proteção de segurança (evitando um erro) do `typeof` quando utilizada em uma variável não declarada, em alguns casos pode ser útil.
+
+---
+
+[⬅️ Índice](toc.md)
+
+[➡️ Capítulo 2: Valores](ch2.md)

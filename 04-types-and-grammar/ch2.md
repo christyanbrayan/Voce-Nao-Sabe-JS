@@ -1,4 +1,4 @@
-# You Don't Know JS: Types & Grammar
+# [Livro 4 - Tipos e Gramática](../04-types-and-grammar/)
 
 # Capítulo 2: Valores
 
@@ -984,3 +984,9 @@ The `null` type has just one value: `null`, and likewise the `undefined` type ha
 `number`s include several special values, like `NaN` (supposedly "Not a Number", but really more appropriately "invalid number"); `+Infinity` and `-Infinity`; and `-0`.
 
 Simple scalar primitives (`string`s, `number`s, etc.) are assigned/passed by value-copy, but compound values (`object`s, etc.) are assigned/passed by reference-copy. References are not like references/pointers in other languages -- they're never pointed at other variables/references, only at the underlying values.
+
+---
+
+[⬅️ Capítulo 1: Tipos](ch1.md)
+
+[➡️ Capítulo 3: Nativos](ch3.md)
