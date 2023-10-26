@@ -1,4 +1,4 @@
-[# Livro 2 - Escopos & Closures](../02-scope-and-closures/)
+# [ Livro 2 - Escopos & Closures](../02-scope-and-closures/)
 
 # Capítulo 5: Closures de Escopo
 
