@@ -2,32 +2,32 @@
 
 ## Índice
 
-* Introdução
-* Prefácio
-* Capítulo 1: O que é Escopo?
-	* Teoria de Compiladores
-	* Entendendo Escopo
-	* Escopos Aninhados
-	* Erros
-* Capítulo 2: Escopo Léxico
-	* Hora do Léxico
-	* Trapaceando o Léxico
-* Capítulo 3: Escopo de função vs. Bloco de escopo
-	* Escopo a partir de funções
-	* Escondendo-se em pleno escopo
-	* Funções como Escopo
-	* Blocos como Escopos
-* Capítulo 4: Hoisting
-	* O Ovo ou a Galinha?
-	* O Compilador ataca novamente
-	* Primeiro as Funções
-* Capítulo 5: Closures de Escopo
-	* Esclarecimento
-	* Nitty Gritty
-	* Agora eu posso ver
-	* Loops + Closure
-	* Módulos
-* Apêndice A: Escopo Dinâmico
-* Apêndice B: Polyfilling Escopo de Bloco
-* Apêndice C: Lexical-this
-* Apêndice D: Agradecimentos
+* [Introdução](../01-up-and-going/foreword.md)
+* [Prefácio](../preface.md)
+* [Capítulo 1: O que é Escopo?](ch1.md)
+	* [Teoria de Compiladores](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch1.html#teoria-de-compiladores)
+	* [Entendendo Escopo](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch1.html#entendendo-escopo)
+	* [Escopos Aninhados](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch1.html#escopos-aninhados)
+	* [Erros](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch1.html#erros)
+* [Capítulo 2: Escopo Léxico](ch2.md)
+	* [Hora do Léxico](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch2.html#hora-do-l%C3%A9xico)
+	* [Trapaceando o Léxico](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch2.html#trapaceando-o-l%C3%A9xico)
+* [Capítulo 3: Escopo de função vs. Bloco de escopo](ch3.md)
+	* [Escopo a partir de funções](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch3.html#escopo-a-partir-de-fun%C3%A7%C3%B5es)
+	* [Escondendo-se em pleno escopo](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch3.html#escondendo-se-em-pleno-escopo)
+	* [Funções como Escopo](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch3.html#fun%C3%A7%C3%B5es-como-escopo)
+	* [Blocos como Escopos](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch3.html#blocos-como-escopos)
+* [Capítulo 4: Hoisting](ch4.md)
+	* [O Ovo ou a Galinha?](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch4.html#o-ovo-ou-a-galinha)
+	* [O Compilador ataca novamente](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch4.html#o-compilador-ataca-novamente)
+	* [Primeiro as Funções](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch4.html#primeiro-as-fun%C3%A7%C3%B5es)
+* [Capítulo 5: Closures de Escopo](ch5.md)
+	* [Esclarecimento](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch5.html#esclarecimento)
+	* [Nitty Gritty](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch5.html#nitty-gritty)
+	* [Agora eu posso ver](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch5.html#agora-eu-posso-ver)
+	* [Loops + Closure](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch5.html#loops--closure)
+	* [Módulos](https://christyanbrayan.github.io/VoceNaoSabeJS/02-scope-and-closures/ch5.html#m%C3%B3dulos)
+* [Apêndice A: Escopo Dinâmico](apA.md)
+* [Apêndice B: Polyfilling Escopo de Bloco](apB.md)
+* [Apêndice C: Lexical-this](apC.md)
+* [Apêndice D: Agradecimentos](apD.md)
